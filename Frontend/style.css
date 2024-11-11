@@ -31,7 +31,7 @@ nav{
 
   border-radius: 10px;
   max-height: 40%;
-
+  cursor: pointer;
 }
 
 hr {
@@ -51,7 +51,7 @@ figcaption{
   text-align: center;
   background-color: rgb(255, 255, 255);
   border: 2px solid rgb(255, 255, 255);
-
+  cursor: pointer;
 
 }
 
@@ -203,7 +203,7 @@ grid-template-columns: 1fr 3fr;
 
   color: #000000;
   background-color: rgb(255, 255, 255);
-
+  cursor: pointer;
 }
 
 
@@ -223,6 +223,7 @@ grid-template-columns: 1fr 3fr;
   font-size: 18px;
   height: 60px;
   margin-top: 20px;
+  cursor: pointer;
 }
 
 .botonLogOut:hover {
@@ -236,6 +237,7 @@ grid-template-columns: 1fr 3fr;
   border-radius: 10px;
   font-size: 18px;
   height: 60px;
+  cursor: pointer;
 }
 
 .botonRanking:hover {
@@ -254,9 +256,9 @@ grid-template-columns: 1fr 3fr;
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   justify-items: center;
-  
   grid-gap: 10px; 
   flex-grow: 1;
+  cursor: pointer;
 }
 
 .personas img:hover {
