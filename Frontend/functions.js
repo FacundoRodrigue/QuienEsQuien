@@ -319,6 +319,7 @@ async function Pregunta1() {
                 CruzMartinez();
                 CruzOdegaard();
                 CruzPeter_Cech();
+                CruzErling_Haaland();
                 CruzSaka()
             }
         }
@@ -1439,6 +1440,54 @@ async function Pregunta25() {
         if((i+1) == numeroAleatorio){
             array = [result[i]]
             if(result[i].pelo_lacio == true){
+                CruzDavid_Beckham();
+                CruzGriezmann();
+                CruzKylian_Mbappe();
+                CruzCarlos_Tevez();
+                CruzDiego_Maradona();
+                CruzRiquelme();
+                CruzSaka()
+                CruzWitsel();
+                CruzAke();
+                CruzPeter_Cech();
+                CruzRudiger();
+                CruzVinicius_Jr();
+                CruzValderrama();
+            } else {
+                CruzKevin();
+                CruzMartinez();
+                CruzLionel_Messi();
+                CruzOdegaard();
+                CruzLuka_Modric();
+                CruzRodrigo_Depaul();
+                CruzCavani();
+                CruzGallardo();
+                CruzGvardiol();
+                CruzEnzo();
+                CruzJulian_Alvarez();
+            }
+        }
+    }
+}
+
+
+async function Pregunta26() {
+    const response = await fetch('http://localhost:7000/CaracteristicasPjs', {
+        method: "GET",
+        headers: {
+            "Content-Type": "application/json",
+        },
+    })
+
+    console.log(response)
+
+    const result = await response.json()
+    console.log(result)
+
+    for (let i = 0; i < result.length; i++){
+        if((i+1) == numeroAleatorio){
+            array = [result[i]]
+            if(result[i].pelo_lacio == true){
                 CruzRodrigo_Depaul();
                 CruzOdegaard();
                 CruzLuka_Modric();
@@ -1464,12 +1513,12 @@ async function Pregunta25() {
                 CruzVinicius_Jr();
                 CruzValderrama();
             } else {
-
+                Cruz
+                
             }
         }
     }
 }
-
 /*CruzAke();
 CruzCarlos_Tevez();
 CruzCavani();
