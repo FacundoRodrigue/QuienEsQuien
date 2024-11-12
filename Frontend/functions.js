@@ -307,20 +307,21 @@ async function Pregunta1() {
                 CruzRiquelme();
                 CruzRodrigo_Depaul();
                 CruzRudiger();
-                CruzValderrama();
                 CruzVinicius_Jr();
                 CruzWitsel();
+                CruzValderrama();
+                CruzJulian_Alvarez();
+
             } else {
                 CruzAke();
                 CruzDavid_Beckham();
                 CruzGvardiol();
-                CruzJulian_Alvarez();
                 CruzKevin();
                 CruzMartinez();
                 CruzOdegaard();
                 CruzPeter_Cech();
                 CruzErling_Haaland();
-                CruzSaka()
+                CruzSaka();
             }
         }
 
@@ -443,7 +444,6 @@ async function Pregunta4() {
                 CruzAke();
                 CruzDavid_Beckham();
                 CruzGvardiol();
-                CruzJulian_Alvarez();
                 CruzKevin();
                 CruzMartinez();
                 CruzOdegaard();
@@ -465,6 +465,7 @@ async function Pregunta4() {
                 CruzEnzo();
                 CruzGallardo();
                 CruzRiquelme();
+                CruzJulian_Alvarez();
             }
         }
 
@@ -1741,13 +1742,13 @@ async function Pregunta31() {
                 CruzCavani();
                 CruzEnzo();
                 CruzGvardiol();
-                CruzJulian_Alvarez();
             } else {
                 CruzMartinez();
                 CruzCarlos_Tevez();
                 CruzRodrigo_Depaul();
                 CruzDiego_Maradona();
                 CruzGallardo();
+                CruzJulian_Alvarez();
             }
         }
     }
@@ -1818,7 +1819,6 @@ async function Pregunta33() {
             array = [result[i]]
             if(result[i].marca_de_ropa == true){
                 CruzValderrama();
-                CruzKevin();
                 CruzGvardiol();
                 CruzMartinez();
                 CruzRodrigo_Depaul();
@@ -1842,6 +1842,8 @@ async function Pregunta33() {
                 CruzEnzo();
                 CruzRiquelme();
                 CruzJulian_Alvarez();
+                CruzKevin();
+
             }
         }
     }
@@ -1927,20 +1929,15 @@ async function Pregunta35() {
                 CruzPeter_Cech();
                 CruzGallardo();
                 CruzRiquelme();
+                CruzLuka_Modric();
             } else {
                 CruzOdegaard();
-                CruzLuka_Modric();
                 CruzRudiger();
                 CruzSaka();
                 CruzCarlos_Tevez();
                 CruzVinicius_Jr();
                 CruzDavid_Beckham();
                 CruzValderrama();
-
-
-
-
-
             }
         }
     }

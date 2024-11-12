@@ -1,240 +1,312 @@
 async function KevinDeBruyne() {
     if (1 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Martinez() {
     if (2 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Griezmann() {
     if (3 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Kylian_Mbappe() {
     if (4 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Lionel_Messi() {
     if (5 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Luka_Modric() {
     if (6 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Odegaard() {
     if (7 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Rudiger() {
     if (8 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Saka() {
     if (9 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Rodrigo_Depaul() {
     if (10 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Vinicius_Jr() {
     if (11 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Witsel() {
     if (12 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Carlos_Tevez() {
     if (13 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Ake() {
     if (14 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function David_Beckham() {
     if (15 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Cavani() {
     if (16 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Peter_Cech() {
     if (17 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Valderrama() {
     if (18 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Diego_Maradona() {
     if (19 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Gallardo() {
     if (20 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Gvardiol() {
     if (21 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Enzo() {
     if (22 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Riquelme() {
     if (23 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 
 async function Julian_Alvarez() {
     if (24 == numeroAleatorio) {
         alert("ganaste");
+        refrescarPagina();
         setTimeout(changeScreenRank(), 2000);
     } else {
         alert("perdiste")
         setTimeout(changeScreenRank(), 2000);
+        refrescarPagina();
+
     }
 }
 

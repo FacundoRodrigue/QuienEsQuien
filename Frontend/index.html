@@ -40,6 +40,7 @@
           <p>¿No tienes cuenta?</p>
           <br>
           <button onclick="changeScreenRegister()" class="botonRegister">Registrate</button>
+          <button class="botonRanking" onclick="changeScreenRank()">Ranking</button>
         </div>
       </div>
     </div>
@@ -127,7 +128,6 @@
       </nav>
       <section class="botonesOutAndRank">
         <button class="botonLogOut" onclick="changeScreenOut()">Log Out</button>
-        <button class="botonRanking" onclick="changeScreenRank()">Ranking</button>
       </section>
     </div>
 
@@ -255,18 +255,6 @@
           <figcaption>Julian Alvarez</figcaption>
         </figure>
       </section>
-      <!-- Sección de Temporizador y Contadores -->
-      <section class="temporizador-y-contadores">
-        <div id="temporizador" onclick="changeScreenAdmin()">
-          Tiempo restante: <span id="tiempo-restante">02:00</span>
-        </div>
-        <div id="contador-usuario">
-          Usuario: <span id="partidas-usuario">0</span> partidas ganadas
-        </div>
-        <div id="contador-maquina">
-          Máquina: <span id="partidas-maquina">0</span> partidas ganadas
-        </div>
-      </section>
     </div>
   </div>
   </div>
@@ -290,7 +278,9 @@
             <li><span></span></li>
           </ol>
         </div>
+
       </div>
+          <button class="botonLogOut" onclick="changeScreenOut()">Log Out</button>
     </div>
   </div>
   <div id="admin" style="display:none;" class = "divisionAdmin">

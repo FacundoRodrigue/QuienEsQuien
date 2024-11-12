@@ -29,7 +29,6 @@ function changeScreenOut() {
     }
 }
 
-
 function changeScreenRegister() {
     const logIn = document.getElementById("logueamos");
     const register = document.getElementById("registramos");
@@ -62,19 +61,24 @@ function changeScreenLogIn() {
 }
 
 function changeScreenRank() {
-    const contenido = document.getElementById("contenido");
+    const presentacion = document.getElementById("presentacion");
     const ranking = document.getElementById("ranking");
     
 
     if(ranking.style.display !== "none") {
         ranking.style.display = "none";
-        contenido.style.display = "";
+        presentacion.style.display = "";
     }
     else {
         ranking.style.display = "";
-        contenido.style.display = "none";
+        presentacion.style.display = "none";
     }
 }
+
+function refrescarPagina() {
+    location.reload();  // Esto recargará la página.
+    location.reload();
+  }
 
 function changeScreenAdmin() {
     const contenido = document.getElementById("contenido");
